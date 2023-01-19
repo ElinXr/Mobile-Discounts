@@ -27,7 +27,7 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
-@media only screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
   .discounts {
     visibility: visible;
   }
